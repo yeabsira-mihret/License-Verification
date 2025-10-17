@@ -36,3 +36,12 @@ printf "Alice\n$(./keygen Alice)\n" | ./verifier
     No illegal use: Do not apply these techniques to third‑party, proprietary, or licensed software without authorization.
 
     Educational purpose: This release is provided for instruction, skill demonstration, and research. The author is not responsible for misuse.
+
+## Author
+
+Yeabsira Mihret
+
+Mechanical Engineering @ ASTU | Reverse Engineering student @ INSA
+
+[LinkedIn](https://www.linkedin.com/in/yeabsira-mihret) | [GitHub](https://github.com/yeabsira-mihret)
+
